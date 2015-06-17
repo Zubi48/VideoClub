@@ -17,6 +17,11 @@
   *Bajas<br>
   *Cambios<br>
   
+   <h5>Renta y devoluciones</h5>
+  *El usuario puede rentar varias peliculas por usuario y seleccionara una fecha de devolución<br>
+  *Si excede el limite de tiempo de devolucion de la pelicula, el sistema generara multa<br>
+  *El usuario podra hacer devoluciones de las peliculas<br>
+  
   
   
   
